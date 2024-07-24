@@ -1,0 +1,6 @@
+ALGORITHM
+1. First, you'll have to split the string into words which splits the string at white space characters
+2. Then, you convert each word to an array using 'toCharArray()'
+3. Then, check if each word is a palindrome using the "isPalindrome" method which checks if a word is a palindrome by comparing characters frim both sides of the string
+4. Store the character arrays and palindrome results for easy manipulation.
+5. Print the character arrays and palindrome check results
